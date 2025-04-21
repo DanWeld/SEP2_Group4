@@ -18,4 +18,4 @@ This project is a semester project for the second semester. It is developed by a
 ## Purpose
 The primary purpose of this system is to simulate a real-world rental platform, providing users with an easy and efficient way to handle summer house rentals.
 
----
+--
