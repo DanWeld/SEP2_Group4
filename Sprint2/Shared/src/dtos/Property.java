@@ -45,4 +45,40 @@ public class Property
         .append(facilities);
     return sb.toString();
   }
+
+  public String getLocation()
+  {
+    return location;
+  }
+
+  public void setLocation(String newLocation)
+  {
+    this.location = newLocation;
+
+  }
+
+  public double getPricePerNight()
+  {
+    return pricePerNight;
+  }
+
+  public void setPricePerNight(double v)
+  {
+    this.pricePerNight = v;
+  }
+
+  public boolean getAvailability()
+  {
+    return true;
+  }
+
+  public void setAvailability(boolean b)
+  {
+    // TODO Auto-generated method stub
+  }
+
+  public Facilities getFacilities()
+  {
+    return facilities;
+  }
 }
